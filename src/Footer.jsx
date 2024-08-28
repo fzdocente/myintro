@@ -4,6 +4,7 @@ export default function Footer(props){
             <div>Este el Footer</div>
             <p>{props.text}</p>
             <a href="https://cesde.edu.co">Cesde</a>
+            <p>Hi</p>
         </>
     )
 }
